@@ -43,6 +43,9 @@ To use the Video Action Recognition App, follow these steps:
 - The I3D model for action recognition is loaded from TensorFlow Hub.
 - Kinetics-400 action labels are fetched from a specified URL.
 
+![image](https://github.com/srihari-sirisipalli/video-action-recognition-app/assets/67143581/105a01af-7d5a-42dc-b729-41104f407d85)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
